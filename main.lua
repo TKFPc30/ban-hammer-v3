@@ -8,4 +8,4 @@ WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your 
 
 	wait(1)
 
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/TKFPc30/ban-hammer/main/script.lua'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/TKFPc30/ban-hammer/main/main.lua'))()
